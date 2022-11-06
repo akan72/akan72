@@ -1,3 +1,3 @@
 ### Alex Kan
-- 📊 Data at [Messari](https://twitter.com/MessariCrypto)
+- 📊 Data at [Messari](https://messari.io/)
 - Vim maximalist
